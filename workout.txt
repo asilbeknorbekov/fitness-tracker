@@ -1,0 +1,2 @@
+ {"Type": "Exercising", "Distance": 0, "Calories": 300, "Duration": 30, "Date&Time": "2025-12-16 16:14:45"}
+{"Type": "Walking", "Distance": 4, "Calories": 777, "Duration": 40, "Date&Time": "2025-12-19 13:48:45"}
